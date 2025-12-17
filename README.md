@@ -1,8 +1,9 @@
-**Project Name: ** Retail Analytics
-**Project Start Date:**  24-10-2024
-**Project End Date**: 02-11-2024
-**Project Done By: **Baladev Bindhani
-**Objectives:**
+Project Name: Retail Analytics
+Project Start Date:24-10-2024
+Project End Date: 02-11-2024
+Project Done By: Baladev Bindhani
+
+Objectives:
 Retail company that has encountered challenges in understanding its sales performance, customer engagement, and inventory management. By Doing this analysis the aims to identify high or low sales products, effectively segment its customer base, and analyse customer behaviour to enhance marketing strategies, inventory decisions, and overall customer experience
 
 Problems:
